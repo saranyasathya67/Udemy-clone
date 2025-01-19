@@ -9,7 +9,7 @@ This project is a basic Udemy Clone created using HTML and CSS. It replicates th
 
 ## How to Use
 
-You can access my udemy-clone by visiting[link]. Feel free to explore the content and get in touch!
+You can access my udemy-clone by visiting [https://saranyasathya67.github.io/Udemy-clone/]. Feel free to explore the content and get in touch!
 
 ## contributing
 
